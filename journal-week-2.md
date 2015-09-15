@@ -9,4 +9,4 @@ Journal Week 2
   2. Discuss my overall feelings about my meeting with Dana, 
   3. Discuss things I want to do continue to do this week
   4. Discuss things I want to do differently this week
-  5. 
+  5. How does scoping work in JavaScript programs? How do the function and var affect it?
