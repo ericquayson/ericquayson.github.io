@@ -1,10 +1,12 @@
 Journal Week 2 
+===============
 
- Outline
  
  My memory of the previous week is a bit blurry due to the overload of vanilla JavaScript. We focused on the functionality of a website which is the JavaScript. The functionality of JavaScript relies on capturing `DOM` nodes and doing something with them. Specifically, once the `DOM` element is captured, there can be events attributed to these elments so when a user clicks an element on the `DOM` this allows for the window to these pop an alert or takes the user to another page. Last week revealed that vanilla JavaScript is something I want to be a master of. I want to be able to write great code that works just as good as it would if I were using a library like jQuery. I know with more time and practice that my vanilla JavaScript skills will increase.
  
- ### Bigger Picture Concept
+Bigger Picture Concept
+======================
+
  Additionally, the concept of MVC was unearthed. MVC is a design practice that is a standard within the developing community. This allows for developer organize their code in an efficient manner. Specifically, MVC focus on the model, view, and controller.
  
      The model is the data that will be used. The model is always pure JavaScript. 
