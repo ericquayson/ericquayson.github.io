@@ -2,7 +2,7 @@
 ### Journal 3
 
 
-Reading journals from Last week made me realize the power of brevity. 
+Reading journals from last week made me realize the power of brevity. 
 With that being said, here is a quick run down of my CSS3 adventures from last week. In class, we focused mainly on learning
 the ins and outs of CSS3. I learned the standard layout for defining a selector in CSS3. Moreover, there are some similarities to what the syntax and the structure of an object literal looks like. The contents of a selector definition houses the properities and values that will style the page.
 
