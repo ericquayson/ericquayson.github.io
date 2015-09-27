@@ -1,11 +1,7 @@
 ## How To INSPECT THE ELEMENT!!! 
 
-#### Outline
 
-+ Outline what inspect the element allows for a developer to do 
-
-
-### Prelude 
+### Getting Started
 
 + The focus of this tutorial is to increase the level of awareness a developer has about tools that can benefit his or her coding experience. Specifically, I am going to show developers how to unlock a hidden power that is only a right-click away. 
 
@@ -17,7 +13,7 @@
 
    + 1 Decided wether to choose an existing project you have worked on or select your favorite website
    + 2. Right click on a specific area on the webpage that either gave you trouble or sparked your interest
-   + 3.
-   + 4.
-   + 5.
-   + 6.
+   + 3. There will be a dropdown menu. The last item on the menu gives you the option to Inspect the element, click that!
+   + 4. The inspect element interface, allows for the developer to investigate styling and functionality on specific elements on          the webspage
+   + 5. Take a look around and statisfy your curiosity 
+   
