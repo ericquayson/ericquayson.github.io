@@ -1,0 +1,24 @@
+{
+  "name": "ericquayson.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "browser-sync start --server --directory"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ericquayson@github.com/ericquayson/ericquayson.github.io.git"
+  },
+  "author": "eric quayson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericquayson/ericquayson.github.io/issues"
+  },
+  "homepage": "https://github.com/ericquayson/ericquayson.github.io",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "node-sass": "^3.3.3"
+  }
+}
