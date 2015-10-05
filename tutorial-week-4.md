@@ -20,7 +20,7 @@ Thinking about what DOM elements or font need to be emphasized at certain sizes 
 
 Most developers will design for mobile first. When designing for mobile, we can use a min: 320px and a max of 768px; 
 
-## Steps
+## Steps for Media Queries 
 
 1. Decide which device you want to write a media query. Remember designing for mobile and then writing media queries for the next largest screen size may be an easier solution
 2. `@media screen and (min-width: 320px) { /* properities you want to focus on or not focus on at this size */}`
