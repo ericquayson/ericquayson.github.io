@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ericquayson/ericquayson.github.io",
   "devDependencies": {
+    "bower": "^1.5.3",
     "gulp": "^3.9.0",
     "node-sass": "^3.3.3"
   }
