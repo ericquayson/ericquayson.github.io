@@ -1,0 +1,28 @@
+{
+  "name": "ericquayson.github.io",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.5.3",
+    "gulp": "^3.9.0",
+    "node-sass": "^3.3.3",
+
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "browser-sync start --server --directory",
+    "node-sass": "node-sass --output-style expanded --output scss/*.scss css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ericquayson@github.com/ericquayson/ericquayson.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericquayson/ericquayson.github.io/issues"
+  },
+  "homepage": "https://github.com/ericquayson/ericquayson.github.io"
+}
