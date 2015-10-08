@@ -13,9 +13,8 @@ Variables are a much appreciated method of SASS. It allows for the developer to 
 `$company-color: #CCC;`
 
 `body {
-  color: $company-color; 
+  color: $company-color;
   }`
 
-### Mixins
 
 source: http://sass-lang.com/guide
