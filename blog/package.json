@@ -12,7 +12,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "mocha",
-    "start": "browser-sync start --server --directory",
+    "start": "browser-sync start --server --startPath='src/index.html' --files='index.html,css/*.css,js/*.js'",
     "node-sass": "node-sass --output-style expanded --output scss/*.scss css/main.css"
   },
   "repository": {
