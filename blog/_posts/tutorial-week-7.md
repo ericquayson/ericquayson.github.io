@@ -1,7 +1,18 @@
+# Outline
+
+
+
 ## How to Write install Twitter Bootstrap
 
-### Outline
+* Twitter Bootstrap is a front-end framework that allows the developer to easily create responsive and mobile-first designs.
 
-* what is twitter Bootstrap
+
+
+How to install twitter Bootstrap?
+
+
+### Multiple Installation Methods
+
+*  
 
 * why should I use it?
