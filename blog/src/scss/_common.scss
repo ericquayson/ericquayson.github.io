@@ -1,0 +1,119 @@
+main.container {
+  display:block;
+  width: 100%;
+  font-family: 'Oswald', sans-serif;
+}
+
+header {
+  border: 1.5px solid black;
+  padding-left: 50px;
+  padding-bottom: 100px;
+  text-align: left;
+  background-color: #000000;
+  color: #FFFFFF;
+  width: 100%;
+  nav {
+    text-decoration: none;
+    color: red;
+    float: right;
+    border-bottom: 1.25px solid grey;
+    padding-top: 10%;
+    padding-right: 5%;
+  }
+  h1 {
+    letter-spacing: .2px;
+  }
+  p {
+    font-size: 12pt;
+  }
+}
+
+
+#frame1 {
+  margin-top: 2.5%;
+  margin-left: 5%;
+  display: block;
+  height: 400px;
+  width: 600px;
+  background-color: #CCC;
+}
+
+#frame2 {
+  margin-top: 2.5%;
+  margin-left: 5%;
+  display:relative;
+  height: 150px;
+  width: 250px;
+  background-color: #CCC;
+}
+
+#frame3 {
+  margin-top: 2.5%;
+  margin-left: 5%;
+  display: inline-block;
+  height: 150px;
+  width: 250px;
+  background-color: #CCC;
+}
+
+#frame4 {
+  margin-top: 2.5%;
+  margin-left: 5%;
+  display: block;
+  height: 150px;
+  width: 250px;
+  background-color: #CCC;
+  margin-bottom: 7%;
+}
+
+#frame5 {
+  margin-top: 2.5%;
+  margin-left: 5%;
+  display: inline-block;
+  height: 150px;
+  width: 250px;
+  background-color: #CCC;
+
+}
+
+button {
+  margin-top: 6%;
+  margin-bottom: 7%;
+  margin-left: 100px;
+  height: 50px;
+  width: 100%;
+  text-align: center;
+}
+
+footer {
+  border-top: 1px solid black;
+  height: 400px;
+  width: 100%;
+  background-color: black;
+}
+
+form {
+  display: block;
+  ul {
+    li {
+      display: block;
+      list-style-type: none;
+      text-decoration: none;
+      font-size: 11.5pt;
+      letter-spacing: .4px;
+      color: #FFF;
+      font-weight: bolder;
+      padding-bottom: 12px;
+      padding-right: 7px;
+      input#submit-button {
+        color: #000000;
+      }
+    }
+  }
+}
+
+
+textarea#comment-section {
+  height: 150px;
+  width: 200px;
+}
